@@ -1,16 +1,7 @@
-# latihan
+# latihan api pemrograman mobile
+![tugaspmhomepage](https://github.com/user-attachments/assets/947b4bba-15e2-4c67-97ed-51e58c2f37c0)
+![tugaspmhome1](https://github.com/user-attachments/assets/8fa96766-88ac-42cf-8ab0-3af357e3a104)
+![tugaspmhome2](https://github.com/user-attachments/assets/3e51def8-1a26-4430-ad4f-21dc867b10b2)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
